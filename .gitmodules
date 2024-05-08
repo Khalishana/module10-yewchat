@@ -1,6 +1,6 @@
 [submodule "SimpleWebsocketServer"]
 	path = SimpleWebsocketServer
 	url = https://github.com/jtordgeman/SimpleWebsocketServer.git
-[submodule "Yewchat"]
-	path = Yewchat
+[submodule "YewChat"]
+	path = YewChat
 	url = https://github.com/jtordgeman/YewChat.git
